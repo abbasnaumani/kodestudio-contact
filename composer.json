@@ -3,11 +3,6 @@
     "description": "This will send email to admin and save query in database",
     "type": "library",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Kodestudio\\Contact\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "abbasnaumani",
